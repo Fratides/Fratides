@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fratides@gmail.com)
 
 ![Fratides GitHub stats](https://github-readme-stats.vercel.app/api?username=Fratides&show_icons=true&theme=dracula)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fratides&layout=donut)](https://github.com/Fratides/github-readme-stats)
 ## Tecnologias que uso no meu dia a dia
 
 <div style="display: inline-block; text-align: center;">
